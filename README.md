@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nazarchikhanna, Application Support Analyst
+- 👋 Hi, I’m @nazarchikhanna, Application Support Specialist
 - 👀 I’m interested in learning, coding and growing
 - 🌱 I’m currently learning iOS Development
 
